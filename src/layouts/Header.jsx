@@ -17,12 +17,12 @@ function Header() {
                             </a>
                         </li>
                         <li className="nav-item">
-                            <a href="https://twitter.com/TundeDevOx" target="_blank" rel="noopener noreferrer">
+                            <a href="https://twitter.com/__jot" target="_blank" rel="noopener noreferrer">
                                 <img src="/assets/twitter-svgrepo-com.svg" alt="twitter" />
                             </a>
                         </li>
                         <li className="nav-item">
-                            <a href="https://www.linkedin.com/in/tunde-oladipupo-7b1b3b1a2/" target="_blank" rel="noopener noreferrer">
+                            <a href="https://www.linkedin.com/in/josephtunde/" target="_blank" rel="noopener noreferrer">
                                 <img src="/assets/linkedin-svgrepo-com.svg" alt="linkedin" />
                             </a>
                         </li>
